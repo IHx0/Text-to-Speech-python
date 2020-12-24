@@ -1,2 +1,3 @@
 # Text_to_Speech-Translator
-little script ;)
+It's a  little script.
+You can convert text to speech and translate the text in certain languages.
